@@ -1,0 +1,26 @@
+{
+  "name": "react-chat",
+  "version": "0.0.1",
+  "homepage": "https://github.com/romainberger/react-chat",
+  "author":{
+    "name": "Romain Berger",
+    "email": "romain@romainberger.com",
+    "url": "http://romainberger.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romainberger/react-chat.git"
+  },
+  "bugs": {
+    "url" : "https://github.com/romainberger/react-chat/issues",
+    "email" : "romain@romainberger.com"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.3",
+    "ejs": "*"
+  },
+  "license": "MIT"
+}
