@@ -12,3 +12,7 @@ Minimalist chat web app to try reactjs
 
     # start the application
     $ npm start
+
+# No back end
+
+This is just a test so the messages are not stored anywhere. Everytime your restart the server the messages are flushed.
